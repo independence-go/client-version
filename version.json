@@ -5,7 +5,6 @@
     { "key": "Localization", "version": "1.0.0" },
     { "key": "GreatFigure", "version": "1.0.0" },
 	{ "key": "Item", "version": "1.0.0" },
-	{ "key": "GachaDrawOption", "version": "1.0.0" },
-	{ "key": "SpeedQuiz", "version": "1.0.0" }
+	{ "key": "GachaDrawOption", "version": "1.0.0" }
   ]
 }
